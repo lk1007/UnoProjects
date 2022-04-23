@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=c:\\Users\\Liam Kain\\Personal_Projects\\UnoProjects\\build,build.warn_data_percentage=75,runtime.tools.arm-none-eabi-gcc.path=C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1,runtime.tools.arm-none-eabi-gcc-4.8.3-2014q1.path=C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1,runtime.tools.bossac.path=C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.6.1-arduino,runtime.tools.bossac-1.6.1-arduino.path=C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\bossac\\1.6.1-arduino",
+  "fqbn": "arduino:sam:arduino_due_x",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Liam Kain\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10815",
+  "sketchLocation": "c:\\Users\\Liam Kain\\Personal_Projects\\UnoProjects\\RemoteFinder\\RemoteFinder.ino"
+}

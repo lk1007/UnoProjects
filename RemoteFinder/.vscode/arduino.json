@@ -1,0 +1,6 @@
+{
+    "board": "arduino:sam:arduino_due_x",
+    "sketch": "RemoteFinder.ino",
+    "port": "COM5",
+    "output": "../build"
+}

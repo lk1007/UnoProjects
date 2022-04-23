@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Liam Kain\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\variants\\arduino_due_x"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Liam Kain\\Personal_Projects\\UnoProjects\\build\\sketch\\RemoteFinder.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
